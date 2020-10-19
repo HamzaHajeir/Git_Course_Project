@@ -3,3 +3,5 @@ Initialized Project
 The second commit demo
 
 New Feature
+
+Someone develops a new feature and pushes to github
